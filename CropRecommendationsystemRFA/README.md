@@ -22,8 +22,6 @@ HTML/CSS: Markup and styling languages used for designing the web interface.
 JavaScript: Scripting language used for client-side interactions and enhancing the user interface.
 Used Random Forest Algorithm
 # Installation and Usage
-Install the required dependencies: pip install -r requirements.txt
-Run the application: python app.py
 Access the application through the web browser at https://crop-recommendation-website.onrender.com/
 # Future Enhancements
 Integration of real-time weather data to improve the accuracy of recommendations.
