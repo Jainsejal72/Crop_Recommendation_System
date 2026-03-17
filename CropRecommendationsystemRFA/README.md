@@ -22,10 +22,9 @@ HTML/CSS: Markup and styling languages used for designing the web interface.
 JavaScript: Scripting language used for client-side interactions and enhancing the user interface.
 Used Random Forest Algorithm
 # Installation and Usage
-Clone the repository: git clone https://github.com/your-username/crop-recommendation-system.git
 Install the required dependencies: pip install -r requirements.txt
 Run the application: python app.py
-Access the application through the web browser at http://localhost:5000
+Access the application through the web browser at https://crop-recommendation-website.onrender.com/
 # Future Enhancements
 Integration of real-time weather data to improve the accuracy of recommendations.
 Incorporation of crop market prices and profitability analysis to assist farmers in making economically viable decisions.
